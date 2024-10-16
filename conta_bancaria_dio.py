@@ -76,7 +76,3 @@ Seu saldo atual é de: {saldo:.2f}"""
     else:
         print("Operação inválida, redigite")
     
-
-
-
-
